@@ -1,5 +1,5 @@
 body{
-    background-color: orange;
+    background-color: LavenderBlush;
     text-align: center;
 }
 input[type=file] {
@@ -10,7 +10,7 @@ img {
     }
 
 h3{
-    color:green;
+    color:black;
     }
 
 h1{
@@ -21,4 +21,3 @@ hr{
     border: 5px solid black;
     border-radius: 5px;
     }
-
